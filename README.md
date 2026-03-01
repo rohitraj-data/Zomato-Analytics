@@ -13,3 +13,10 @@ End-to-end Zomato data analysis project built using Excel, Power BI, and Tableau
 - Online Delivery vs Non-Delivery Comparison
 - Table Booking Availability Analysis
 - Restaurant Opening Trends by Year
+
+## 💡 Key Insights
+- Majority of restaurants fall in the 3–4 rating range.
+- Online delivery availability is approximately 25%.
+- Only around 12% of restaurants provide table booking.
+- North Indian cuisine has the highest presence.
+- Restaurant openings show consistent yearly growth.
