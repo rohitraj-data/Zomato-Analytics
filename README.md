@@ -12,7 +12,7 @@ End-to-end Zomato data analysis project built using Excel, Power BI, and Tableau
 - Top 10 Cuisines by Restaurant Count
 - Online Delivery vs Non-Delivery Comparison
 - Table Booking Availability Analysis
-- Restaurant Opening Trends by Year
+- Restaurant Opening Trends by Year.
 
 ## 💡 Key Insights
 - Majority of restaurants fall in the 3–4 rating range.
