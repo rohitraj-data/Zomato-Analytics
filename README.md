@@ -4,3 +4,12 @@ End-to-end Zomato data analysis project built using Excel, Power BI, and Tableau
 ## 📊 Dashboard Preview
 
 ![Zomato Dashboard](Dashboard/Zomato_Analytics_Dashboard.png)
+
+## 🔎 Analysis Performed
+- Restaurant distribution by City & Country
+- Rating Bucket Analysis (1–2, 2–3, 3–4, 4–5)
+- Restaurant Count by Price Range
+- Top 10 Cuisines by Restaurant Count
+- Online Delivery vs Non-Delivery Comparison
+- Table Booking Availability Analysis
+- Restaurant Opening Trends by Year
